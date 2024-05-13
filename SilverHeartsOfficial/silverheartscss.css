@@ -1,0 +1,81 @@
+
+
+h1 {
+	top: 35px;
+	font-size: 55;
+	color: white;
+	border-bottom: double white 3px;
+}
+
+main a, .url{
+	text-decoration: none;
+	color: cyan;
+}
+
+header {
+	padding: 0px 0px 1px 0px;
+	background-image: url("silverheartsimage.png");
+	background-size: cover;
+	height: 200px;
+}
+
+
+nav {
+	font-size: 20;
+	border-bottom: double white 1px;
+	border-top: double white 1px;
+	position: absolute;
+	top: 170px;
+}
+
+main {
+	
+}
+
+body {
+	background-color: rgb(33,33,33);
+}
+
+p {
+	color: white;
+}
+
+.date {
+	font-family: unset;
+	color: rgb(255,170,0);
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+}
+
+main h1 {
+	font-size: 35;
+	color: white;
+	border-bottom: double white 3px;
+}
+
+footer {
+}
+
+footer a {
+	position: relative;
+	bottom: 0px;
+	left: 75px;
+	font-size: 30;
+	text-decoration: none;
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+img {
+	height: 300px;
+	width: 600px;
+	position: relative;
+	float: right;
+	border: double white 3px;
+}
